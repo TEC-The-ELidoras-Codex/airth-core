@@ -61,7 +61,7 @@ Airth is now awake at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 ## 📁 File Checklist
 
 - `.gitignore` (Python, venv, .env, VSCode)
-- `requirements.txt` (fastapi, uvicorn[standard], python-dotenv, htmx-python, openai, jinja2)
+- `requirements.txt` (fastapi, uvicorn[standard], python-dotenv, starlette-htmx, openai, jinja2)
 - `.env` (never commit this!)
 - `app/main.py` (FastAPI server)
 - `app/templates/index.html` (HTMX chat UI)
